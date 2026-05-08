@@ -1,9 +1,9 @@
 1. What is CRM
-   CRM stands for Customer Relationship Management. Basically, it is a tool or a system that companies use to keep track of everyone they talk to, like potential or current customers. It helps businesses organize their sales and make sure they don't lose important information about their clients
+CRM stands for Customer Relationship Management. Basically, it is a tool or a system that companies use to keep track of everyone they talk to, like potential or current customers. It helps businesses organize their sales and make sure they don't lose important information about their clients
 
    
 2. Why do companies use Salesforce
-   Most companies use Salesforce because it's a cloud-based platform that handles all their customer data in one spot. It makes it easier for teams to manage their business workflows, track sales, and grow their relationships with customers without needing messy spreadsheets
+Most companies use Salesforce because it's a cloud-based platform that handles all their customer data in one spot. It makes it easier for teams to manage their business workflows, track sales, and grow their relationships with customers without needing messy spreadsheets
 
    
 3. Explain
